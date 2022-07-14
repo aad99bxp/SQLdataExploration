@@ -6,7 +6,7 @@ Dataset Can Be Downloaded From : https://ourworldindata.org/covid-deaths
 
 I did this project from a yotube video made by Alex The Analyst Youtube Channel. The url of the video : https://www.youtube.com/watch?v=qfyynHBFOsM&ab_channel=AlexTheAnalyst
 
-##What did I actually do in this project ?
+## What did I actually do in this project ?
 
 1. Downloaded the dataset from the link above.
 2. Made two excel workbooks from a single csv file that was downloaded in step 1.
@@ -15,7 +15,7 @@ I did this project from a yotube video made by Alex The Analyst Youtube Channel.
 5. Performed queries to find different insights from the data. ( I have also performed my own queries along with the queries done by Alex in the video tutorial.)
 6. Finally uploading the SQL queries on Github.
 
-##What did I Learn ?
+## What did I Learn ?
 
 This is a beginner level project. And as a beginner, it gave me more clarity in performing SQL queries. Here are the points below that I learnt from this project :
 
