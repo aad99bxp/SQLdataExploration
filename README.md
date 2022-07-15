@@ -1,9 +1,13 @@
 # SQLdataExploration
 Exploring various insights from Our World In Data Covid-19 Dataset. Imported the dataset in MS SQL Server and ran queries to undercover various insights in the data.
 
+## Tools Used
+Excel, MS SQL Server
 
+## Dataset
 Dataset Can Be Downloaded From : https://ourworldindata.org/covid-deaths
 
+## Tutorial
 I did this project from a yotube video made by Alex The Analyst Youtube Channel. The url of the video : https://www.youtube.com/watch?v=qfyynHBFOsM&ab_channel=AlexTheAnalyst
 
 ## What did I actually do in this project ?
